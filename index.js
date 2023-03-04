@@ -1,4 +1,4 @@
-const randomBackgroundAPI = "https://picsum.photos/1920/1080/";
+const randomBackgroundAPI = "https://picsum.photos/3840/2160/";
 
 const backgroundImage = document.getElementById("backgroundImage");
 backgroundImage.addEventListener("load", () => {
